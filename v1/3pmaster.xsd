@@ -1,4 +1,4 @@
-<xsd:schema xmlns="http://gpx.3pmaster.com/v1" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://gpx.3pmaster.com/v1” elementFormDefault="qualified">
+<xsd:schema xmlns="http://gpx.3pmaster.com/v1" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://gpx.3pmaster.com/v1”>
 <xsd:annotation>
 <xsd:documentation>
 This schema defines the 3pMaster extensions to be used with the GPX 1.1 schema. The root elements defined by this schema are intended to be used as child elements of the "extensions" elements in the GPX 1.1 schema. The GPX 1.1 schema is available at http://www.topografix.com/GPX/1/1/gpx.xsd.
