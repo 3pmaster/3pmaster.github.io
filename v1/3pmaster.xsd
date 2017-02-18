@@ -3,7 +3,7 @@
 <xsd:documentation>
 This schema defines the 3pMaster extensions to be used with the GPX 1.1 schema.<BR>
 The root elements defined by this schema are intended to be used as child elements of the "extensions" elements in the GPX 1.1 schema.<BR>
-The GPX 1.1 schema is available at http://gpx.3pmaster.com/v1/3pmaster.xsd.
+The GPX 1.1 schema is available at http://gpx.3pmaster.com/v1/3pmaster.xsd.<BR>
 </xsd:documentation>
 </xsd:annotation>
 <xsd:element name=“StageExtension" type="StageExtensionType”/>
